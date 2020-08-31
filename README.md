@@ -1,5 +1,5 @@
 # Buscador de imagenes con paxabay api
-Aplicación web creada en react js, buscador de imagenes con paxabay api.
+Aplicación web creada en react js, buscador de imagenes con pixabay api.
 
 ### [Demostración](https://sharp-panini-4c4eaa.netlify.app/)
 
