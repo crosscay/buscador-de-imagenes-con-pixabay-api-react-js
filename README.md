@@ -1,7 +1,7 @@
 # Buscador de imagenes con pixabay api
 Aplicación web creada en react js, buscador de imagenes con pixabay api.
 
-### [Demostración](https://sharp-panini-4c4eaa.netlify.app/)
+### [Demostración](https://buscador-de-imagenes-con-pixabay-api-y-react.netlify.app/)
 
 ### Sceenshot
 ![buscador_imagenes_1](https://user-images.githubusercontent.com/15184739/91673965-4cd66a80-eafc-11ea-9894-40934404cde0.PNG)
