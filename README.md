@@ -15,7 +15,7 @@ Aplicación web creada en react js, buscador de imagenes con pixabay api.
 Para iniciar el proyecto utilice:
 
 ```bash
-$ git clon https://github.com/crosscay/buscador-de-imagenes-con-pixabay-api-y-react.git
+$ git clon https://github.com/crosscay/buscador-de-imagenes-con-pixabay-api-react-js.git
 $ cd buscador-de-imagenes-con-pixabay-api
 # instala las dependencias del proyecto
 $ npm i
